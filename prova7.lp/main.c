@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void boletim() {
+void main() {
 
 float nota1;
 float nota2;
